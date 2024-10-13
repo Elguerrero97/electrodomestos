@@ -1,10 +1,12 @@
 .card {
+    align-items: center;
     position: relative;
-    align-items: center
-    width: 255px;
-    height: 255px;
+    width: 300px;
+    height: 300px;
     margin-right: 30px;
-    display: flex
+    display: flex;
+    justify-content: center;
+    
 }
 .face {
         position: absolute;
